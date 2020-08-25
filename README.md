@@ -13,6 +13,7 @@ Para a realização do projeto foi utilizado:
 1. Controlador STM32F429I;
 ![STM32F429I-DISCO](https://github.com/Microcontroladores-2020/Santos-RFID/blob/master/imagens/STM32F429I-DISCO.PNG)
 2. Sensor RFID-RC522:
+
 ![Sensor RFID-RC522](https://github.com/Microcontroladores-2020/Santos-RFID/blob/master/imagens/RFID_RC522.jpg)
 3. Tela trouchscreen integrada do controlador.
 
