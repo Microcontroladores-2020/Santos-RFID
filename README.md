@@ -14,7 +14,7 @@ O projeto, nessa versão, implementará a leitura do sensor RFID com a informaç
 Para a realização do projeto foi utilizado:
 1. Controlador STM32F407;
 
-![STM32F407](https://github.com/Microcontroladores-2020/Santos-RFID/blob/master/imagens/STM32F40.jpg)
+![STM32F40](https://github.com/Microcontroladores-2020/Santos-RFID/blob/master/imagens/STM32F40.jpg)
 
 2. Sensor RFID-RC522:
 
