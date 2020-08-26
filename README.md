@@ -20,7 +20,7 @@ Para a realização do projeto foi utilizado:
 
 ![Sensor RFID-RC522](https://github.com/Microcontroladores-2020/Santos-RFID/blob/master/imagens/RFID_RC522.jpg)
 
-A comunicação do sensors foi feita por meio do protocolo de comunicação SPI.
+A comunicação do sensors foi feita por meio do protocolo de comunicação SPI, utilizando como base a [biblioteca da implementação do sensor em Arduino](https://www.arduinolibraries.info/libraries/mfrc522).
 
 ## Pinagem
 
