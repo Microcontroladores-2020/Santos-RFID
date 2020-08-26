@@ -6,7 +6,7 @@ A ideia do projeto de controle de acesso por RFID, controlando a abertura de um 
 na sede da IME Júnior. Atualmente a entrada é controlada por meio de um cadeado de senha, mas por comodidade e também controle seria melhor que ocorrese um registro do momento de entrada das pessoas.
 Dessa forma a entrada por meio de RFID foi escolhida por se adequar ao uso do próprio crachá do IME, podendo futuramente evoluir para um sistema com registro de tempo e um banco de dados de crachá maior.
 
-##Escopo do Projeto 
+## Escopo do Projeto 
 
 O projeto, nessa versão, implementará a leitura do sensor RFID com a informação de liberação de entrada por meio do acendimento de um LED da Discovey.
 
@@ -26,7 +26,7 @@ A comunicação do sensors foi feita por meio do protocolo de comunicação SPI.
 
 A pinagem do STM32 foi feita como na imagem a seguir:
 
-![Pinout STM32](https://github.com/Microcontroladores-2020/Santos-RFID/blob/master/imagens/STM32F4.PNG)
+![Pinout STM32](https://github.com/Microcontroladores-2020/Santos-RFID/blob/master/imagens/STM32F0.PNG)
  
 E com as seguintes funcionalidades:
 
