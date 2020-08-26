@@ -26,7 +26,7 @@ A comunicação do sensors foi feita por meio do protocolo de comunicação SPI.
 
 A pinagem do STM32 foi feita como na imagem a seguir:
 
-![Pinout STM32](https://github.com/Microcontroladores-2020/Santos-RFID/blob/master/imagens/STM32F0.PNG)
+![Pinout STM32](https://github.com/Microcontroladores-2020/Santos-RFID/blob/master/imagens/STM32F4.PNG)
  
 E com as seguintes funcionalidades:
 
